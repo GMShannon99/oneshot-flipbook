@@ -1,7 +1,7 @@
 (function () {
   "use strict";
 
-  var TOTAL_PAGES = 60;
+  var TOTAL_PAGES = 66;
   var PAGE_WIDTH = 1282;
   var PAGE_HEIGHT = 1819;
   var PAGE_RATIO = PAGE_WIDTH / PAGE_HEIGHT;
